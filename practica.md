@@ -18,17 +18,17 @@
 
 ## A. Presentación
 
-- **Mi nombre o apodo:** [ESCRIBE AQUÍ]
-- **Una actividad que disfruto:** [ESCRIBE AQUÍ]
-- **Algo que me gustaría aprender con Git:** [ESCRIBE AQUÍ]
+- **Mi nombre o apodo:** Elian
+- **Una actividad que disfruto:** estudiar sin presion
+- **Algo que me gustaría aprender con Git:** a compartir codigo y controlar versiones
 
 ## B. Lo que aprendí
 
-1. **Git sirve para:** [RESPUESTA]
-2. **Git y GitHub son diferentes porque:** [RESPUESTA]
-3. **Un commit es:** [RESPUESTA]
+1. **Git sirve para:** compartir y tomar registro de un codigo
+2. **Git y GitHub son diferentes porque:** git es la herramienta y el github es solo una pagina
+3. **Un commit es:** es una captura del poryecto
 4. **El staging area sirve para:** [RESPUESTA]
-5. **La diferencia entre fork y clone es:** [RESPUESTA]
+5. **La diferencia entre fork y clone es:** el fork esta en la nube y clone ya se agrega 
 
 ## C. Mi primer cambio
 
